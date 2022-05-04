@@ -121,9 +121,9 @@ body {
   text-transform: uppercase;
 }
 
-.date .circle {
-  background-color: var(--primary-color);
-  color: var(--secondary-color);
+/* .date .circle {
+  background-color: blank;
+  color: var(--primary-color);
   border-radius: 50%;
   height: 18px;
   width: 18px;
@@ -133,4 +133,4 @@ body {
   line-height: 18px;
   transition: all 0.5s ease-in;
   font-size: 12px;
-}
+} */
